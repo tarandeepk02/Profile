@@ -73,16 +73,28 @@
 ---
 
 ### 📂 Featured Projects:
-- 🎓 [Educate - Quiz Management System](https://github.com/yourusername/educate)
-- ☕ [Mario’s Place Coffee Info System](https://github.com/yourusername/marios-place-coffee)
-- 📱 [Mobile App Templates Collection](https://github.com/yourusername/mobile-templates)
+- 📚 [PHP Learning Management System](https://github.com/tarandeepk02/PHP-Learning-Management-System)  
+  A learning platform built with PHP and SCSS for course management.
+
+- 📖 [Bookify - Book Listing App](https://github.com/tarandeepk02/Bookify)  
+  A dynamic JavaScript-based application to list and manage books online.
+
+- 🗓️ [Laravel Scheduling Software](https://github.com/tarandeepk02/Laravel-Scheduling-Software)  
+  An advanced scheduling tool with calendar integration and task management features.
+
+- 💸 [CodeIgniter BudgetBuddy - Expense Tracker](https://github.com/tarandeepk02/CodeIgniter-BudgetBuddy-Daily-Expense-Tracker)  
+  A daily expense manager built with CodeIgniter, ideal for budgeting and tracking.
+
+- 💬 [Laravel Quote System](https://github.com/tarandeepk02/Laravel-Quote-System)  
+  A quote/request management system using Laravel and JavaScript.
+
+- 🧩 [NodeJS MVC Template](https://github.com/tarandeepk02/NodeJS-MVC-Template)  
+  A modular MVC architecture starter for Node.js web applications.
 
 ---
 
 ### 🌐 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarandeep-k/)
 
 ---
 
