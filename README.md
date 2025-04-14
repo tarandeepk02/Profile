@@ -4,11 +4,11 @@
 ---
 
 ### 💫 About Me:
-- 🔭 I’m currently working on **"Educate" – a student-teacher quiz platform**
-- 🌱 I’m currently learning **JavaFX, Linux Shell Scripting, and Database Design**
-- 💬 Ask me about **PHP, Laravel, WordPress, Java, JavaScript, and APIs**
-- 📫 How to reach me: **[your-email@example.com](mailto:your-email@example.com)**
-- 🌍 Visit my company: [SAT Web Technologies Ltd.](https://yourcompanywebsite.com)
+- 🔧 9+ years of hands-on experience in **Frontend** and **Backend Development**
+- 🌟 Highly motivated, detail-oriented, and always ready to learn new technologies
+- 🧠 Strong in logic building, troubleshooting, and system design
+- 🧩 Committed to delivering high-quality code under tight deadlines
+- 🌍 Love working on SaaS platforms, eCommerce, job portals, CRMs, and custom enterprise solutions
 
 ---
 
